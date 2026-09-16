@@ -1,0 +1,13 @@
+earthengine-api>=0.1.349
+tensorflow
+request
+
+conda install -c conda-forge geemap
+
+conda install -c conda-forge scikit-learn
+
+conda install -c conda-forge earthengine-api
+
+conda update -c conda-forge earthengine-api
+
+ls $HOME/.config/earthengine/credentials
